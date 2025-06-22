@@ -65,6 +65,7 @@ export default function CurriculoPage() {
           <div id="proj1" className="mb-4">
             <strong>DoctorCare</strong> | HTML, CSS, JavaScript |{' '}
             <a
+              href="https://saulojustiniano1.github.io/doctorcare/"
               target="_blank"
               rel="noopener noreferrer"
               className="underline text-blue-600"
