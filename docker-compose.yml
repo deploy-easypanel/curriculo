@@ -1,0 +1,9 @@
+services:
+  app:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    container_name: curriculo.saulojustiniano
+    ports:
+      - '3033:3033'
+    restart: unless-stopped
