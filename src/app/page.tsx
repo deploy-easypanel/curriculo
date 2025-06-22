@@ -1,6 +1,6 @@
 'use client';
 
-import { Github, Linkedin, LocateFixed, Mail, Phone } from 'lucide-react';
+import { Github, Linkedin, LocateFixed, Mail } from 'lucide-react';
 
 export default function CurriculoPage() {
   return (
@@ -14,9 +14,9 @@ export default function CurriculoPage() {
               <LocateFixed className="w-4 h-4" />
               Paraíba, PB
             </p>
-            <p className="flex items-center gap-2">
+            {/* <p className="flex items-center gap-2">
               <Phone className="w-4 h-4" /> (83) 99645-9444
-            </p>
+            </p> */}
             <p className="flex items-center gap-2">
               <Mail className="w-4 h-4" /> saulojustiniano.dev@gmail.com
             </p>
@@ -97,10 +97,10 @@ export default function CurriculoPage() {
                 https://saulojustiniano1.github.io/esports-community
               </a>
               <p className="text-justify">
-                Desenvolvi uma aplicação web usando HTML e CSS simples, usei as
-                propriedades do css (grid e flex) para permitir que o projeto
-                fique responsivo e a hospedagem foi feita no GitHub usando a
-                ferramenta github pages
+                Desenvolvi uma aplicação web ucode sando HTML e CSS simples,
+                usei as propriedades do css (grid e flex) para permitir que o
+                projeto fique responsivo e a hospedagem foi feita no GitHub
+                usando a ferramenta github pages
               </p>
             </div>
 
