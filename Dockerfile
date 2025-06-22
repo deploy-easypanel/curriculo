@@ -27,6 +27,6 @@ COPY --from=builder /app/public ./public
 
 RUN npm install --only=production
 
-EXPOSE 3030
+EXPOSE 3130
 
 CMD ["npm", "start"]
