@@ -82,7 +82,7 @@ export default function CurriculoPage() {
                 Desenvolvi uma aplicação web usando HTML e CSS simples, as
                 funcionalidade foram feitas usando Javascript puro e a
                 hospedagem foi feita no GitHub usando a própria ferramenta
-                deles, o github pages
+                deles, o github pages.
               </p>
             </div>
 
@@ -100,7 +100,7 @@ export default function CurriculoPage() {
                 Desenvolvi uma aplicação web ucode sando HTML e CSS simples,
                 usei as propriedades do css (grid e flex) para permitir que o
                 projeto fique responsivo e a hospedagem foi feita no GitHub
-                usando a ferramenta github pages
+                usando a ferramenta github pages.
               </p>
             </div>
 
@@ -111,7 +111,7 @@ export default function CurriculoPage() {
               <p className="text-justify">
                 Estou desenvolvendo uma aplicação web usando o next.js com o
                 node.js, esse projeto é um site de alocação com o intuito de
-                facilidade o jeito como você aluga um imovel
+                facilidade o jeito como você aluga um imovel.
               </p>
             </div>
           </div>
@@ -141,7 +141,7 @@ export default function CurriculoPage() {
             exibe a resposta em tempo real. Além disso, também sou responsável
             pela <strong> manutenção dos demais sistemas da Defensoria</strong>,
             que são desenvolvidos em{' '}
-            <strong>PHP com o framework Laravel</strong>.
+            <strong>PHP com o framework Laravel.</strong>
           </p>
         </section>
 
